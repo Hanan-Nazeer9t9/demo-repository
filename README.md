@@ -1,3 +1,5 @@
 # demo-repository
-this is an demo respository
+<strong>demo respository</strong>
+<br>
+<br>
 this is Day two of learning a GitHub
